@@ -37,7 +37,7 @@
             @endif
 
             <div style="color:#ffffff;">
-                Hola Mundo {{rand(100, 999)}}          
+                Hola Mundo         
             </div>
 
             

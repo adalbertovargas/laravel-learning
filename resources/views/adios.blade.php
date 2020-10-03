@@ -37,7 +37,7 @@
             @endif
 
             <div style="color:#ffffff;">
-                Adios Mundo {{rand(100, 999)}}          
+                Adios Mundo         
             </div>
 
             
