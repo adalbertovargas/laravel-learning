@@ -37,7 +37,7 @@
             @endif
 
             <div style="color:#ffffff;">
-                Adios Mundo         
+                Adios Programador         
             </div>
 
             
